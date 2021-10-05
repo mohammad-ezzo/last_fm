@@ -1,5 +1,5 @@
 # last_fm
-Simple Implementation of LastFM Rest Api using flutter.
+Simple Implementation of LastFM Rest Api using flutter, and Bloc for state management, TDD for the folder architecture, and Get_it for Dj.
 
 Splash screen             |  Search Screen              |  Track View Screen
 :-------------------------:|:-------------------------:|:------------------------------:
